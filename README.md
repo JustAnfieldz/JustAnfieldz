@@ -2,7 +2,9 @@
 Name: Vichayaphat Patthikarnsakul (Anfield)<br>
 AKA: JustAnfieldz<br>
 Date of Birth: 1st of January, 2002<br>
+Nationality: Thai
 Language: Thai & English<br>
+Hometown: Samut Sakhon, Thailand
 Hobby: Playing video games, Listening to musics and watching YouTube videos
 
 # 💫 About Me:
