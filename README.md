@@ -1,3 +1,10 @@
+# 💫 Information
+Name: Vichayaphat Patthikarnsakul (Anfield)<br>
+AKA: JustAnfieldz<br>
+Date of Birth: 1st of January, 2002<br>
+Language: Thai & English<br>
+Hobby: Playing video games, Listening to musics and watching YouTube videos
+
 # 💫 About Me:
 🔭 I’m studying in School of Information Technology (SIT) King Mongkut's University of Technology Thonburi (KMUTT).<br>👯 I’m looking for an internship.<br>💬 I'm interested to work in Front-End section or Data section.<br>⚡ Fun fact, I'm not that smart but I always give a try to anything.
 
