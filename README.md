@@ -1,4 +1,4 @@
-# 💫 Information
+# 💫 Information:
 Name: Vichayaphat Patthikarnsakul (Anfield)<br>
 AKA: JustAnfieldz<br>
 Date of Birth: 1st of January, 2002<br>
