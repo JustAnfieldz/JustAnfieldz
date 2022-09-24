@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m studying in School of Information Technology (SIT) King Mongkut's University of Technology Thonburi (KMUTT).<br>👯 I’m looking for an internship.<br>💬 I'm interested to work in Front-End section and Data section.<br>⚡ Fun fact, I'm not that smart but I always give a try to anything.
+🔭 I’m studying in School of Information Technology (SIT) King Mongkut's University of Technology Thonburi (KMUTT).<br>👯 I’m looking for an internship.<br>💬 I'm interested to work in Front-End section or Data section.<br>⚡ Fun fact, I'm not that smart but I always give a try to anything.
 
 
 ## 🌐 Socials:
