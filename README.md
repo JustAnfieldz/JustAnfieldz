@@ -5,7 +5,8 @@ Date of Birth: 1st of January, 2002<br>
 Nationality: Thai<br>
 Language: Thai & English<br>
 Hometown: Samut Sakhon, Thailand<br>
-Hobby: Playing video games, Listening to musics and watching YouTube videos
+Hobby: Playing video games, Listening to musics and watching YouTube videos<br>
+Email: anf.patthikarnsakul@gmail.com
 
 # 💫 About Me:
 🔭 I’m studying in School of Information Technology (SIT) King Mongkut's University of Technology Thonburi (KMUTT).<br>👯 I’m looking for an internship.<br>💬 I'm interested to work in Front-End section or Data section.<br>⚡ Fun fact, I'm not that smart but I always give a try to anything.
