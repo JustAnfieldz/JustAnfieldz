@@ -9,7 +9,7 @@ Hobby: Playing video games, Listening to musics and watching YouTube videos<br>
 Email: anf.patthikarnsakul@gmail.com
 
 # 💫 About Me:
-🔭 I’m studying in School of Information Technology (SIT) King Mongkut's University of Technology Thonburi (KMUTT).<br>👯 Former database developer intern at agoda<br>💬 I'm interested to work in Back-End section or Data section.<br>⚡ Fun fact, I'm not that smart but I always give a try to anything.
+🔭 I’m studying in School of Information Technology (SIT) King Mongkut's University of Technology Thonburi (KMUTT).<br>👯 Former database developer intern at agoda<br>💬 I'm interested to work in Database or Data section.<br>⚡ Fun fact, I'm not that smart but I always give a try to anything.
 
 
 ## 🌐 Socials:
